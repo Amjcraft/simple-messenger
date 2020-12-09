@@ -1,0 +1,6 @@
+@import './../../styles/themes.scss';
+
+.c-toolbar {
+    background: theme-var($--theme-primary);
+    padding: 15px;
+}

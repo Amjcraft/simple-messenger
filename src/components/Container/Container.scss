@@ -1,0 +1,9 @@
+@import './../../styles/themes.scss';
+
+.c-container {
+    background: theme-var($--theme-surface);
+
+    &__activeView {
+        padding: 15px;
+    }
+}
